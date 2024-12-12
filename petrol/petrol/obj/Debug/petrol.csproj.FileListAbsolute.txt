@@ -1,0 +1,10 @@
+C:\Users\rizat\Desktop\petrol\petrol\petrol\obj\Debug\petrol.csproj.AssemblyReference.cache
+C:\Users\rizat\Desktop\petrol\petrol\petrol\obj\Debug\petrol.Form1.resources
+C:\Users\rizat\Desktop\petrol\petrol\petrol\obj\Debug\petrol.Properties.Resources.resources
+C:\Users\rizat\Desktop\petrol\petrol\petrol\obj\Debug\petrol.csproj.GenerateResource.cache
+C:\Users\rizat\Desktop\petrol\petrol\petrol\obj\Debug\petrol.csproj.CoreCompileInputs.cache
+C:\Users\rizat\Desktop\petrol\petrol\petrol\bin\Debug\petrol.exe.config
+C:\Users\rizat\Desktop\petrol\petrol\petrol\bin\Debug\petrol.exe
+C:\Users\rizat\Desktop\petrol\petrol\petrol\bin\Debug\petrol.pdb
+C:\Users\rizat\Desktop\petrol\petrol\petrol\obj\Debug\petrol.exe
+C:\Users\rizat\Desktop\petrol\petrol\petrol\obj\Debug\petrol.pdb
